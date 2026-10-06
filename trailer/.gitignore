@@ -1,0 +1,5 @@
+clips/
+clips-draft/
+*.mp4
+*.wav
+__pycache__/
